@@ -8,7 +8,7 @@
 3. RAM. Terdiri dari capacity (int), dan price(int)
 Semua kelas di atas akan dipakai oleh kelas PC. PC terdiri dari 3 kelas di atas dan total price dari ketiga kelas di atas
 
-Di setiap kelas akan ada deklarasi atribut, konstruktor, setter dan getter, print atribut selain price (karena akan dijumlahkan dan hasil penjumlahan yang ditampilkan), destruktor. Kemudian di main akan di hardcode beberapa data dengan set langsung ke 3 kelas tersebut (Processor, Disk, RAM). Setelah itu, data hasil hardcode tersebut akan ditampilkan ke layar. ^_^
+Di setiap kelas akan ada deklarasi atribut, konstruktor, setter dan getter, print atribut selain price (karena price akan dijumlahkan dan hasil penjumlahan akhir yang akan ditampilkan), destruktor. Kemudian di main akan di hardcode beberapa data dengan set langsung ke 3 kelas tersebut (Processor, Disk, RAM). Setelah itu, data hasil hardcode tersebut akan ditampilkan ke layar. ^_^
 
 ## C++
 ![lat3](https://user-images.githubusercontent.com/91471895/155901114-5d08d1a0-51e2-43af-ab7b-ee1d23ae9145.PNG)
